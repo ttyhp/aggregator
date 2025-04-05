@@ -1,8 +1,8 @@
 name: Collect
 on:
-  # 三小时跑一次
+  # executed once a week on Sundays at 00:00
   schedule:
-    - cron: "0 */4 * * *"
+    - cron: "0 0 * * 1"
   workflow_dispatch:
 
 concurrency:
