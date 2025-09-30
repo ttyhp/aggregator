@@ -174,14 +174,12 @@
         }
     },
     "storage": {
-        "engine": "xxx",
-        "base": "https://api.xxx.com",
-        "domain": "https://xxx.com",
+        "engine": "gist",
         "items": {
-            "xxx-clash": {
-                "username": "",
-                "folderid": "",
-                "fileid": ""
+            "premium-clash": {
+                "username": "ttyhp",
+                "folderid": "5d79eb148cbaf755619491c41599fed2",
+                "fileid": "premium-clash.yaml"
             },
             "xxx-singbox": {
                 "fileid": ""
